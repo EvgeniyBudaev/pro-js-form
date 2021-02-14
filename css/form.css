@@ -1,0 +1,37 @@
+.wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.inner {
+    padding: 50px;
+    max-width: 700px;
+    width: 100%;
+    box-shadow: 0 0 5px 5px rgba(170, 170, 170, 0.6);
+    background-color: #fff;
+}
+
+.form {
+    width: 100%;
+}
+
+.form .select {
+    margin-bottom: 50px;
+}
+
+.form-group {
+    margin-bottom: 50px;
+    width: 100%;
+}
+
+.form-group .mdc-text-field {
+    width: 100%;
+}
+
+@media (max-width: 500px) {
+    .inner {
+        padding: 25px;
+    }
+}
