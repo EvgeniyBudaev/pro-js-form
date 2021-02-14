@@ -1,3 +1,3 @@
 # JavaScript. Работа с формой. 
 
-![Image alt](https://github.com/EvgeniyBudaev/pro-js-select/blob/main/readme.png)
+![Image alt](https://github.com/EvgeniyBudaev/pro-js-form/blob/main/readme.png)
